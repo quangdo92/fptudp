@@ -189,9 +189,9 @@ udp://@225.1.2.179:30120
 udp://@225.1.2.165:30120
 #EXTINF:0 tvg-id="bacgiang" group-title="Địa phương" tvg-logo="https://i.imgur.com/05t6W7v.png",Bắc Giang
 udp://@225.1.1.164:30120
-#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương" tvg-logo="https://i.imgur.com/sGcRJVP.png",Quảng Ninh
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương" tvg-logo="https://i.imgur.com/sGcRJVP.png",Quảng Ninh 1
 udp://@225.1.2.181:30120
-#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương" tvg-logo="https://i.imgur.com/4hadYbw.png",Quảng Ninh
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương" tvg-logo="https://i.imgur.com/4hadYbw.png",Quảng Ninh 3
 udp://@225.1.2.180:30120
 #EXTINF:0 tvg-id="bacninh" group-title="Địa phương" tvg-logo="https://i.imgur.com/zUFSFCV.png",Bắc Ninh
 udp://@225.1.1.40:30120
@@ -235,7 +235,7 @@ udp://@225.1.1.133:30120
 udp://@225.1.2.178:30120
 #EXTINF:0 tvg-id="binhthuan" group-title="Địa phương" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",Bình Thuận
 udp://@225.1.1.124:30120
-#EXTINF:0 tvg-id="kontum" group-title="Địa phương" tvg-logo="https://i.imgur.com/C4yYbbi.png", Kon Tum
+#EXTINF:0 tvg-id="kontum" group-title="Địa phương" tvg-logo="https://i.imgur.com/C4yYbbi.png",Kon Tum
 udp://@225.1.1.36:30120
 #EXTINF:0 tvg-id="gialai" group-title="Địa phương" tvg-logo="https://i.imgur.com/csqFzvA.png",Gia Lai
 udp://@225.1.2.176:30120
@@ -245,15 +245,15 @@ udp://@225.1.1.64:30120
 udp://@225.1.2.177:30120
 #EXTINF:0 tvg-id="binhphuoc1" group-title="Địa phương" tvg-logo="https://i.imgur.com/DHWoGfP.png",Bình Phước
 udp://@225.1.2.23:30120
-#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương" tvg-logo="https://i.imgur.com/YPQCtHY.png",Bình Dương
+#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương" tvg-logo="https://i.imgur.com/YPQCtHY.png",Bình Dương 1
 udp://@225.1.1.150:30120
-#EXTINF:0 tvg-id="binhduong2" group-title="Địa phương" tvg-logo="https://i.imgur.com/LpV0d3Q.png",Bình Dương
+#EXTINF:0 tvg-id="binhduong2" group-title="Địa phương" tvg-logo="https://i.imgur.com/LpV0d3Q.png",Bình Dương 2
 udp://@225.1.1.149:30120
-#EXTINF:0 tvg-id="binhduong3" group-title="Địa phương" tvg-logo="https://i.imgur.com/K6Qs6BO.png",Bình Dương
+#EXTINF:0 tvg-id="binhduong3" group-title="Địa phương" tvg-logo="https://i.imgur.com/K6Qs6BO.png",Bình Dương 3
 udp://@225.1.2.22:30120
-#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://i.imgur.com/blOZQPI.png",Đồng Nai
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương" tvg-logo="https://i.imgur.com/blOZQPI.png",Đồng Nai 1
 udp://@225.1.1.152:30120
-#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://i.imgur.com/tIvmaaX.png",Đồng Nai
+#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương" tvg-logo="https://i.imgur.com/tIvmaaX.png",Đồng Nai 2
 udp://@225.1.1.151:30120
 #EXTINF:0 tvg-id="tayninh" group-title="Địa phương" tvg-logo="https://i.imgur.com/0DU4cyg.png",Tây Ninh
 udp://@225.1.1.130:30120
@@ -307,8 +307,6 @@ udp://@225.1.1.159:30120
 udp://@225.1.3.62:30120
 #EXTINF:0 tvg-id="phutho" group-title="Địa phương" tvg-logo="https://i.imgur.com/5OZ2hAB.png",Phú Thọ
 udp://@225.1.3.71:30120
-#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương" tvg-logo="https://i.imgur.com/sGcRJVP.png",Quảng Ninh
-udp://@225.1.3.32:30120
 
 #-------------------FPT Play-------------------#
 #EXTINF:0 tvg-id="" group-title="FPT Play" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 4Mbps)
