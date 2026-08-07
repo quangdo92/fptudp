@@ -14,7 +14,7 @@ udp://@225.1.1.131:30120
 udp://@225.1.2.236:30120
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên HD 
 udp://@225.1.1.108:30120
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV6 HD
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="",VTV6 HD
 udp://@225.1.2.154:30120
 #EXTINF:0 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ HD
 udp://@225.1.2.245:30120
