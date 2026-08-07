@@ -15,7 +15,7 @@ http://192.168.123.1:10022/udp/225.1.2.236:30120
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên HD 
 http://192.168.123.1:10022/udp/225.1.1.108:30120
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="",VTV6 HD
-http://192.168.123.1:10022/udp/@225.1.2.154:30120
+http://192.168.123.1:10022/udp/225.1.2.154:30120
 #EXTINF:0 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV10 HD
 http://192.168.123.1:10022/udp/225.1.2.245:30120
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 HD
