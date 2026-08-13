@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
+#EXTM3U url-tvg="https://lichhatsong.io.vn/epgc.xml"
 #-------------------VTV-------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 rtp://@232.84.1.27:8136
