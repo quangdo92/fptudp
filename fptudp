@@ -14,7 +14,7 @@ udp://@225.1.1.131:30120
 udp://@225.1.2.236:30120
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên HD 
 udp://@225.1.1.108:30120
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV 8.5" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6
 udp://@225.1.2.154:30120
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 HD
 udp://@225.1.2.96:30120
