@@ -14,14 +14,15 @@ udp://@225.1.1.131:30120
 udp://@225.1.2.236:30120
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên HD 
 udp://@225.1.1.108:30120
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ HD
-udp://@225.1.2.245:30120
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV 8.5" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 HD
 udp://@225.1.2.96:30120
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 HD
 udp://@225.1.2.166:30120
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 HD
 udp://@225.1.1.128:30120
+#EXTINF:0 tvg-id="vtv10hd" group-title="VTV 8.5" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV10
+udp://@225.1.3.3:30120
 
 #-------------------VTV 8.5 Mbs-------------------#
 
@@ -35,8 +36,8 @@ udp://@225.1.3.2:30120
 udp://@225.1.3.6:30120
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV 8.5" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 udp://@225.1.3.4:30120
-#EXTINF:0 tvg-id="vtv6hd" group-title="VTV 8.5" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-udp://@225.1.3.3:30120
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV 8.5" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6
+udp://@225.1.2.154:30120
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV 8.5" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
 udp://@225.1.3.15:30120
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV 8.5" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
@@ -47,6 +48,8 @@ udp://@225.1.3.9:30120
 udp://@225.1.3.42:30120
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV 8.5" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
 udp://@225.1.3.30:30120
+#EXTINF:0 tvg-id="vtv10hd" group-title="VTV 8.5" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV10
+udp://@225.1.3.3:30120
 
 #-------------------An Ninh Quốc Phòng-------------------#
 #EXTINF:0 tvg-id="antvhd" group-title="An Ninh Quốc Phòng" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD
@@ -103,11 +106,11 @@ udp://@225.1.2.52:30120
 #EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
 udp://@225.1.2.74:30120
 #EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-udp://@225.1.1.112:30120
+udp://@225.1.2.233:30120
 #EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
 udp://@225.1.2.225:30120
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
-udp://@225.1.3.14:30120
+udp://@225.1.2.86:30120
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
 udp://@225.1.1.139:30120
 #EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
